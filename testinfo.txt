@@ -1,3 +1,8 @@
 hi this is created from git
 hi this is a updated text form git
 hi this is the third update for dev 1
+
+changes one
+change two
+change three
+for merge process
